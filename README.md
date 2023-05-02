@@ -9,7 +9,7 @@ Equipe:
   - Edson Shinji
   - Sophia Medeiros
   - Sarah Valbueno
-  - Isabela Paulino
+  - Isabela Vitória
   
 Desenvolvedor:
   Aline Vicente
